@@ -1,0 +1,1 @@
+window.location.href = browser.extension.getURL('install-user-css.html') + '?url=' + window.location.href;
